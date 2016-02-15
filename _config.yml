@@ -1,7 +1,7 @@
 name: Shutter
 favicon: null
-layout_spectrum: 0.029239103430882096
-typography_spectrum: 0.41143830330111086
+layout_spectrum: 0
+typography_spectrum: 0.53712
 cta:
   domain: null
   bucket: null
