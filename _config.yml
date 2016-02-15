@@ -2,6 +2,7 @@ name: Shutter
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.53712
+title: Home is where the art is
 cta:
   domain: null
   bucket: null
